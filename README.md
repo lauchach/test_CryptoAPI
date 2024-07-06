@@ -1,2 +1,2 @@
 # test_CryptoAPI
-RUN: "Node index.js"
+RUN: "node index.js"
